@@ -19,7 +19,7 @@ HuckFinn, plaintext, ascii:
         - The compressed file is 65.0% of the original  
          
 
-Leviathan, plaintext, ascii
+Leviathan, plaintext, ascii:  
         - The original file was 1231841 bytes long  
         - The new file is 883499 bytes long  
         - The compressed file is 72.0% of the original  
